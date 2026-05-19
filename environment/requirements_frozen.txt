@@ -1,0 +1,48 @@
+aiohappyeyeballs==2.6.1
+aiohttp==3.13.3
+aiosignal==1.4.0
+async-timeout==5.0.1
+attrs==25.4.0
+certifi==2026.1.4
+charset-normalizer==3.4.4
+contourpy==1.3.2
+cycler==0.12.1
+filelock==3.20.3
+fonttools==4.61.1
+frozenlist==1.8.0
+fsspec==2026.2.0
+idna==3.11
+Jinja2==3.1.6
+joblib @ file:///home/conda/feedstock_root/build_artifacts/joblib_1765794027227/work
+kiwisolver==1.4.9
+MarkupSafe==3.0.3
+matplotlib==3.10.8
+mpmath==1.3.0
+multidict==6.7.1
+networkx==3.4.2
+numpy==1.26.4
+packaging==26.0
+pandas==2.3.3
+pillow==12.1.1
+propcache==0.4.1
+psutil==7.2.2
+pyparsing==3.3.2
+python-dateutil==2.9.0.post0
+pytz==2025.2
+requests==2.32.5
+scikit-learn @ file:///Users/runner/miniforge3/conda-bld/scikit-learn_1757406211361/work/dist/scikit_learn-1.7.2-cp310-cp310-macosx_10_13_x86_64.whl#sha256=7670b5ab1128eb57615b8afa9fa4752b8b7c550fcc15402114204006789a0ca8
+scipy @ file:///Users/runner/miniforge3/conda-bld/scipy-split_1739790744051/work/dist/scipy-1.15.2-cp310-cp310-macosx_10_13_x86_64.whl#sha256=f6d40aea21a34e9d9a143f479557cad14bca2f4dbd51ceb15ddc40e976676acb
+six==1.17.0
+sympy==1.14.0
+threadpoolctl @ file:///home/conda/feedstock_root/build_artifacts/threadpoolctl_1741878222898/work
+torch==2.2.2
+torch-geometric==2.7.0
+torchaudio==2.2.2
+torchvision==0.17.2
+tqdm==4.67.3
+typing_extensions==4.15.0
+tzdata==2025.3
+urllib3==2.6.3
+xgboost @ file:///home/conda/feedstock_root/build_artifacts/xgboost-split_1768314083701/work/python-package
+xxhash==3.6.0
+yarl==1.22.0
