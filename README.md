@@ -13,14 +13,11 @@ which investigates whether user re-engagement on live streaming platforms
 (Twitch) can be predicted using traditional machine learning models versus 
 graph-based approaches under a leakage-safe temporal evaluation setting.
 
----
-
 **Dataset:** Rappaz, J., McAuley, J., & Aberer, K. (2021). Recommendation 
 on Live-Streaming Platforms: Dynamic Availability and Repeat Consumption. 
 RecSys 2021.
 
-The dataset is publicly available at:  
-https://cseweb.ucsd.edu/~jmcauley/datasets.html#twitch
+The dataset is publicly available at: https://cseweb.ucsd.edu/~jmcauley/datasets.html#twitch
 
 ---
 
