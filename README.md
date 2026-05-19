@@ -39,15 +39,13 @@ approaches under a leakage-safe temporal evaluation setting?
 
 ## Repository Structure
 
-thesis_twitch_reengagement/
-┣ notebooks/          # Analysis pipeline (Phases 1–7)
-┣ reports/
-┃ ┣ eda/              # EDA figures and tables
-┃ ┗ modeling/         # Modeling figures and tables
-┣ src/                # Source modules
-┣ environment/        # Conda environment and requirements
-┣ configs/            # Configuration files
-┗ docs/               # Design documentation
+| Folder | Contents |
+|--------|----------|
+| `notebooks/` | Analysis pipeline (Phases 1–7) |
+| `reports/eda/` | EDA figures and tables |
+| `reports/modeling/` | Modeling figures and tables |
+| `environment/` | Conda environment and requirements |
+| `docs/` | Design documentation |
 
 > `data_raw/` and `data_processed/` are excluded from this repository.
 
