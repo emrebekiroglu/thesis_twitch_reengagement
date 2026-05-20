@@ -1,4 +1,0 @@
-feature_configuration,num_features,roc_auc,pr_auc,f1,precision,recall
-Behavioral + Temporal,19,0.7068,0.4401,0.4787,0.3677,0.6855
-Structural Only,6,0.7014,0.4311,0.4703,0.3467,0.7312
-Full Feature Set,25,0.7064,0.4395,0.4779,0.3678,0.6822

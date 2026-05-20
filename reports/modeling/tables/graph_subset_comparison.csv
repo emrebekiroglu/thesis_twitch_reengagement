@@ -1,5 +1,0 @@
-model,feature_type,evaluation_scope,roc_auc,pr_auc,f1,precision,recall,threshold
-Logistic Regression (tabular),tabular_only,graph_covered_test,0.7038,0.4534,0.4909,0.3782,0.6991,0.26
-Tuned XGBoost (tabular),tabular_only,graph_covered_test,0.7045,0.4525,0.4881,0.3672,0.728,0.25
-LightGCN + Logistic Regression,graph_only,graph_covered_test,0.5801,0.3061,0.4069,0.2696,0.829,0.18
-Hybrid XGBoost,tabular_plus_graph,graph_covered_test,0.6978,0.4512,0.4847,0.377,0.678,0.23
